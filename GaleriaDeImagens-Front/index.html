@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Galeria de Imagens</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Galeria de Imagens</h1>
+
+    <!-- Formulário de Upload -->
+    <form id="uploadForm">
+      <label for="imageInput">Selecione uma imagem:</label>
+      <input type="file" id="imageInput" accept="image/*" required>
+      <button type="submit">Enviar Imagem</button>
+    </form>
+
+    <hr>
+
+    <!-- Galeria -->
+    <div id="gallery">
+      <h2>Imagens Salvas</h2>
+      <div class="image-list"></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
