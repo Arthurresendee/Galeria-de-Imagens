@@ -3647,19 +3647,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kaysa\\.nuget\\packages\\": {}
+    "C:\\Users\\Leo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Arthur\\Projects\\Galeria de Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
+      "projectUniqueName": "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
       "projectName": "GaleriaDeImagens",
-      "projectPath": "C:\\Arthur\\Projects\\Galeria de Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
-      "packagesPath": "C:\\Users\\kaysa\\.nuget\\packages\\",
-      "outputPath": "C:\\Arthur\\Projects\\Galeria de Imagens\\GaleriaDeImagens\\obj\\",
+      "projectPath": "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
+      "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
+      "outputPath": "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kaysa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -3726,7 +3726,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
