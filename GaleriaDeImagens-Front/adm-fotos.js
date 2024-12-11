@@ -1,6 +1,10 @@
+const navigateButton = document.getElementById('navigateButton');
+navigateButton.addEventListener('click', () => {
+  window.location.href = 'galeria-fotos.html';
+});
+
 const uploadForm = document.getElementById('uploadForm');
 const imageInput = document.getElementById('imageInput');
-// const gallery = document.querySelector('.image-list');
 
 const API_URL = 'http://localhost:5050/api/imagens';
 

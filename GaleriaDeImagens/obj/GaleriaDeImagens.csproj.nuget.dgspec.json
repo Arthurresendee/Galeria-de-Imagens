@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj": {}
+    "C:\\Arthur\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj": {}
   },
   "projects": {
-    "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj": {
+    "C:\\Arthur\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
+        "projectUniqueName": "C:\\Arthur\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
         "projectName": "GaleriaDeImagens",
-        "projectPath": "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
-        "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "C:\\Arthur\\galeria-de-fotos\\Galeria-de-Imagens\\GaleriaDeImagens\\obj\\",
+        "projectPath": "C:\\Arthur\\Galeria-de-Imagens\\GaleriaDeImagens\\GaleriaDeImagens.csproj",
+        "packagesPath": "C:\\Users\\leona\\.nuget\\packages\\",
+        "outputPath": "C:\\Arthur\\Galeria-de-Imagens\\GaleriaDeImagens\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\leona\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
