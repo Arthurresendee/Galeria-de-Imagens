@@ -1,4 +1,8 @@
 /* Estilo do botão no canto superior direito */
+body{
+  background-color: #0d1117;
+}
+
 .top-right-button {
   position: absolute;
   top: 10px;
@@ -31,14 +35,9 @@
 h1 {
   font-size: 2.5rem;
   margin-bottom: 20px;
-  color: #333;
+  color: #ffffff;
 }
 
-h2 {
-  font-size: 1.8rem;
-  margin-bottom: 20px;
-  color: #555;
-}
 
 /* Lista de imagens */
 .image-list {
@@ -52,7 +51,7 @@ h2 {
 .image-list img {
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 5px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
