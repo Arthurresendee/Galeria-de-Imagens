@@ -3,18 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Administração de Imagens</title>
     <link rel="stylesheet" href="adm-fotos.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
   <button class="top-right-button" id="navigateButton">Ir para galeria</button>
-
+  <div class="container">
     <h1>Administração de Imagens</h1>
     <form id="uploadForm">
-      <label for="imageInput">Selecione uma imagem:</label>
+      <label for="imageInput" class="form-label">Selecione uma imagem:</label>
       <input type="file" id="imageInput" accept="image/*" required>
-      <button type="submit">Enviar Imagem</button>
+      <button type="submit" class="submit-button">Enviar Imagem</button>
     </form>
-    <script src="adm-fotos.js"></script>
+  </div>
+  <script src="adm-fotos.js"></script>
 </body>
 </html>
